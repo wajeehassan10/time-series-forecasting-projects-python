@@ -36,7 +36,30 @@ The aim of this project was to understand how different forecasting models perfo
 
 ## Repository Contents
 
-```text
-BITCOIN_DAIILY_PRICE_Forecasting.ipynb   Bitcoin price forecasting notebook
-Self_Collected_Data.ipynb                Self-collected time-series analysis notebook
-Forecasting.pdf                          Final written project report
+- `BITCOIN_DAIILY_PRICE_Forecasting.ipynb` — Bitcoin price forecasting notebook
+- `Self_Collected_Data.ipynb` — Self-collected time-series analysis notebook
+- `Forecasting.pdf` — Final written project report
+
+## Important Note
+
+The self-collected dataset was used only for academic analysis. The focus of this repository is to demonstrate time-series forecasting, model comparison, and Python-based data analysis.
+
+## What I Learned
+
+Through this project, I gained practical experience in:
+
+- Preparing time-series datasets
+- Testing stationarity
+- Comparing forecasting models
+- Evaluating forecasts using error metrics
+- Working with Python for data analysis
+- Presenting analytical results in a structured report
+
+## Author
+Wajeeh Ul Hassan Malik  
+Engineering & Management Student  
+Technische Hochschule Ingolstadt
+
+Wajeeh Ul Hassan Malik  
+Engineering & Management Student  
+Technische Hochschule Ingolstadt
