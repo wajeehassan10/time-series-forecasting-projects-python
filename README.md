@@ -59,7 +59,3 @@ Through this project, I gained practical experience in:
 Wajeeh Ul Hassan Malik  
 Engineering & Management Student  
 Technische Hochschule Ingolstadt
-
-Wajeeh Ul Hassan Malik  
-Engineering & Management Student  
-Technische Hochschule Ingolstadt
