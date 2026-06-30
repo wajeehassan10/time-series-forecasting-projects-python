@@ -1,9 +1,17 @@
 pandas
+
 numpy
+
 matplotlib
+
 statsmodels
+
 scikit-learn
+
 prophet
+
 tensorflow
+
 keras
+
 pmdarima
