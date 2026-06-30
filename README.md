@@ -36,7 +36,7 @@ The aim of this project was to understand how different forecasting models perfo
 
 ## Repository Contents
 
-- `BITCOIN_DAIILY_PRICE_Forecasting.ipynb` — Bitcoin price forecasting notebook
+- `BITCOIN_DAILY_PRICE_Forecasting.ipynb` — Bitcoin price forecasting notebook
 - `Self_Collected_Data.ipynb` — Self-collected time-series analysis notebook
 - `Forecasting.pdf` — Final written project report
 
