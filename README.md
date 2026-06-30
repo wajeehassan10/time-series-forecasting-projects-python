@@ -4,7 +4,7 @@ This repository contains forecasting projects completed as part of my Engineerin
 
 The project applies time-series analysis and forecasting methods to two datasets:
 
-1. A self-collected time-series dataset
+1. A self-collected recovery dataset
 2. A public Bitcoin price dataset
 
 ## Project Overview
